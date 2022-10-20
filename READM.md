@@ -20,3 +20,18 @@ you said it you meant it >:) ==> fun delete button
 - create a database ==> holds users (password & email), holds posts, comments and reactions
 - cookies ==> remembers logged in user when user access again
 - EXTRA ==> random username generator 
+
+# toxicity
+Description:
+An application that generates world wide communication with the option to be an anonymous toxic/ stresss free user in your local area and option to login/sign up for a social media account.
+
+User Story:
+
+
+How to use:
+
+Why We Made This Project:
+We made this project to generate a creative opportunity for individuals to post locally, anonymously, 
+
+
+Screenshot of Website:
