@@ -30,12 +30,14 @@ MySql
 
 Screenshot of Website:
 
+![image](https://user-images.githubusercontent.com/103874328/198204096-4f161ef6-fc29-445b-ad71-0bfd7c0575e8.png)
 
 
-
+![image](https://user-images.githubusercontent.com/103874328/198204033-3d3da25e-d8d2-4966-9b3d-1c346fedaad1.png)
 
 Link 1:
-
+https://toxicity2000.herokuapp.com/profile
 
 Link 2: 
+https://github.com/robertox17/toxicity
 
